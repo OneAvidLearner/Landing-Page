@@ -11,7 +11,8 @@ body {
     display: flex;
     padding: 150px;
     padding-top: 20px;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 255px;
     flex-direction: row;
     align-items: center;
     
@@ -49,7 +50,8 @@ a {
     padding-left: 150px;
     padding-right: 150px;
     padding-bottom: 20px;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 100px;
 
     
     
